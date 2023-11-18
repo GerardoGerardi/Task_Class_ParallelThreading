@@ -2,8 +2,10 @@
 
 Каждый процесс подсчитывает только произведения, определение результата осуществляется в родительской задаче, куда передаются результаты работы процесса. По процессам распределяется вся матрица.  
 
-На консоль выводится время выполнения этой задачи трёма способами: обычным циклом foreach, с помощью Task параллельно, и последовательно. 
+На консоль выводится время выполнения этой задачи трёма способами: обычным циклом foreach, с помощью Task параллельно, и последовательно.   
 Скрин 1.  
-![image](https://github.com/GerardoGerardi/Task_Class_ParallelThreading/assets/73798494/d8fedec2-d007-4394-a8d3-c0f9e395e791)  
+![image](https://github.com/GerardoGerardi/Task_Class_ParallelThreading/assets/73798494/bc485ab0-e970-4eb6-a757-159bee20f52d)
+ 
 Скрин 2.  
-![image](https://github.com/GerardoGerardi/Task_Class_ParallelThreading/assets/73798494/5e57d747-4459-487f-8e3a-48f760d20ca0)  
+![image](https://github.com/GerardoGerardi/Task_Class_ParallelThreading/assets/73798494/1cc2f9a0-46a3-4eec-afcc-6589bdaab6f2)
+
