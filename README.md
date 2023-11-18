@@ -4,6 +4,6 @@
 
 На консоль выводится время выполнения этой задачи трёма способами: обычным циклом foreach, с помощью Task параллельно, и последовательно. 
 Скрин 1.  
-![image](https://github.com/GerardoGerardi/Task_Class_ParallelThreading/assets/73798494/d8fedec2-d007-4394-a8d3-c0f9e395e791)
+![image](https://github.com/GerardoGerardi/Task_Class_ParallelThreading/assets/73798494/d8fedec2-d007-4394-a8d3-c0f9e395e791)  
 Скрин 2.  
-![image](https://github.com/GerardoGerardi/Task_Class_ParallelThreading/assets/73798494/5e57d747-4459-487f-8e3a-48f760d20ca0)
+![image](https://github.com/GerardoGerardi/Task_Class_ParallelThreading/assets/73798494/5e57d747-4459-487f-8e3a-48f760d20ca0)  
